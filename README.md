@@ -31,7 +31,7 @@ There are a few navigation key strokes.
 
 ### Debugging
 
-You can flag a function for debuggin with `debug(yourownfunction)` and then use `undebug` to unflag it.
+In R, You can flag a function for debuggin with `debug(yourownfunction)` and then use `undebug` to unflag it. If you don't know how to use these debug facilities, please read this section of [R Language Definition](https://cloud.r-project.org/doc/manuals/R-lang.html#Debugging).
 
 You can do that quickly with the key stroke `C-c C-t d` and `C-c C-t u`.
 
