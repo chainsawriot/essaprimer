@@ -40,5 +40,4 @@ Setting a break point in a function with `C-c C-t b` and unset it with `C-c C-t 
 ## Transcripting
 
 
-
-[^1]: Actually, I am writing to learn.
+[^1]: Actually, I write to learn.
