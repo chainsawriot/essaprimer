@@ -27,7 +27,7 @@ There are also the "and go" version. They have the same `C-c` starting but with 
 
 There are a few navigation key strokes.
 
-* `C-M h` (`ess-mark-function`): Mark (select) the current function, related function-related key strokes are `C-M a` (move to the beginning) and `C-M e` (move to the end).
+* `C-M h` (`ess-mark-function`): Mark (select) the current function, other function-related key strokes are `C-M a` (move to the beginning) and `C-M e` (move to the end).
 
 ### Debugging
 
