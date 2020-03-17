@@ -9,7 +9,7 @@ I am going to assume you know how to use emacs in general. If you don't know, pl
 
 ## Inferior R session
 
-You can invoke an inferior R session with either `M-x R RET` or evaluate your code. You can switch to an inferior R session with either `M-x o` or `C-c C-z`.
+You can invoke an inferior R session with either `M-x R RET` or evaluate your code. You can switch to the inferior R session with either `M-x o` or `C-c C-z`.
 
 ## Sending code to the ESS process
 
@@ -41,4 +41,4 @@ Setting a break point in a function with `C-c C-t b` and unset it with `C-c C-t 
 
 
 
-[^1: Actually, I am writing to learn.]
+[^1]: Actually, I am writing to learn.
